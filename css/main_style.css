@@ -1,0 +1,23 @@
+html {
+    min-height: 100hv;
+}
+
+body {
+    font-size: 100%;
+    margin: 10px;
+    padding: 5px;
+    background-image: linear-gradient(darkslateblue, black);
+}
+
+h1, h2, p, ul {
+    color:silver;
+    font-family:'Times New Roman', Times, serif;
+}
+
+a:link {
+    color:goldenrod;
+}
+
+a:visited {
+    color:darkgoldenrod
+}
