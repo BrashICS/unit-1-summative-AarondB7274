@@ -3,9 +3,9 @@ html {
 }
 
 body {
-    font-size: 100%;
-    margin: 10px;
-    padding: 5px;
+    font-size: 130%;
+    margin: 2%;
+    padding: 1%;
     background-image: linear-gradient(darkslateblue, black);
 }
 
@@ -20,4 +20,8 @@ a:link {
 
 a:visited {
     color:darkgoldenrod
+}
+
+button {
+    color:darkslateblue
 }
